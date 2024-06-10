@@ -1,0 +1,12 @@
+﻿  hangkongdingpiaoxitong.cpp
+D:\cpp_study\hangkongdingpiaoxitong\hangkongdingpiaoxitong\hangkongdingpiaoxitong.cpp(6,30): warning C4081: 应输入“newline”；找到“;”
+D:\cpp_study\hangkongdingpiaoxitong\hangkongdingpiaoxitong\hangkongdingpiaoxitong.cpp(135,10): warning C4101: “departure_city”: 未引用的局部变量
+D:\cpp_study\hangkongdingpiaoxitong\hangkongdingpiaoxitong\hangkongdingpiaoxitong.cpp(273,131): warning C4474: printf: 格式字符串中传递的参数太多
+  D:\cpp_study\hangkongdingpiaoxitong\hangkongdingpiaoxitong\hangkongdingpiaoxitong.cpp(273,131):
+  占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  
+D:\cpp_study\hangkongdingpiaoxitong\hangkongdingpiaoxitong\hangkongdingpiaoxitong.cpp(322,130): warning C4474: printf: 格式字符串中传递的参数太多
+  D:\cpp_study\hangkongdingpiaoxitong\hangkongdingpiaoxitong\hangkongdingpiaoxitong.cpp(322,130):
+  占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  
+  hangkongdingpiaoxitong.vcxproj -> D:\cpp_study\hangkongdingpiaoxitong\x64\Debug\hangkongdingpiaoxitong.exe

@@ -1,0 +1,12 @@
+﻿  text01.cpp
+D:\cpp_study\Project1\Project1\text01.cpp(116,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cpp_study\Project1\Project1\text01.cpp(123,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cpp_study\Project1\Project1\text01.cpp(204,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cpp_study\Project1\Project1\text01.cpp(211,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cpp_study\Project1\Project1\text01.cpp(237,42): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cpp_study\Project1\Project1\text01.cpp(249,46): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cpp_study\Project1\Project1\text01.cpp(290,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cpp_study\Project1\Project1\text01.cpp(297,28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cpp_study\Project1\Project1\text01.cpp(323,57): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\cpp_study\Project1\Project1\text01.cpp(335,57): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Project1.vcxproj -> D:\cpp_study\Project1\x64\Debug\Project1.exe
